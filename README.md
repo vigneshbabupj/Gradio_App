@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vigneshbabupj/Gradio_App)
 
-</p>
+</div>
 
 # Gradio_App
 App Deployment using [Gradio](https://gradio.app/)
@@ -11,7 +11,7 @@ App Deployment using [Gradio](https://gradio.app/)
 Hello world of using Gradio
 
 ### vision.py
-Simple vision app to be image inferencing on pretrained pytorch model
+Simple vision app to do image inferencing on pretrained pytorch model
 
 ### timm_vision.py
 Vision using pretrained model from timm library

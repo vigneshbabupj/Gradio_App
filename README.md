@@ -14,5 +14,7 @@ Hello world of using Gradio
 Simple vision app to do image inferencing on pretrained pytorch model
 
 ### timm_vision.py
-Vision using pretrained model from timm library
+Vision app using pretrained model from timm library
 
+### live_vision.py
+live Vision app inference from webcam using pretrained model from timm library
